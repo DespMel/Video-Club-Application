@@ -1,0 +1,120 @@
+ITEMLIST
+{
+ITEM
+{
+
+ITEM_TYPE movie
+SUB_TYPE DVD
+TITLE Home
+YEAR 2015
+STAR Jim Parsons
+DIRECTOR Tim Johnson
+SCRIPTWRITER Tom J. Astle
+CATEGORY Animaton
+COPIES 4
+COMPANY DreamWorks
+TIME 94
+}
+ITEM
+{
+ITEM_TYPE movie
+SUB_TYPE DVD
+TITLE The Avengers
+YEAR 2012
+STAR Robert Downey Jr
+DIRECTOR Joss Whedon
+SCRIPTWRITER Joss Whedon
+CATEGORY Action
+COPIES 3
+COMPANY Marvel
+TIME 143
+}
+ITEM
+{
+ITEM_TYPE movie
+SUB_TYPE BlueRay
+TITLE Wild
+YEAR 2014
+STAR Reese Witherspoon
+DIRECTOR Jean-Marc Vallee
+SCRIPTWRITER Nick Hornby
+CATEGORY Drama
+COPIES 5
+COMPANY 20th Century Fox
+TIME 115
+}
+ITEM
+{
+ITEM_TYPE movie
+SUB_TYPE BlueRay
+TITLE The Incredible Hulk
+YEAR 2008
+STAR Edward Norton
+DIRECTOR Louis Leterrier
+SCRIPTWRITER Zak Penn
+CATEGORY Sci-Fi
+COPIES 2
+COMPANY Marvel
+TIME 112
+}
+ITEM
+{
+ITEM_TYPE game
+TITLE Sonic Rivals
+YEAR 2015
+COMPANY Sega
+CATEGORY Sports
+COPIES 4
+CONSOLE Xbox
+}
+ITEM
+{
+ITEM_TYPE game
+TITLE Crash Tag Team
+YEAR 2012
+COMPANY Vu Games
+CATEGORY Racing
+COPIES 3
+CONSOLE Playstation
+}
+ITEM
+{
+ITEM_TYPE game
+TITLE Mario Kart
+YEAR 2014
+COMPANY Shigeru Miyamoto
+CATEGORY Racing
+COPIES 5
+CONSOLE Nintendo
+}
+ITEM
+{
+ITEM_TYPE game
+TITLE Grand Theft Auto: Vice City Stories
+YEAR 2007
+COMPANY Rockstar Games
+CATEGORY Action
+COPIES 2
+CONSOLE Playstation
+}
+ITEM
+{
+ITEM_TYPE game
+TITLE Shadow Of Mordor
+YEAR 2015
+COMPANY Warner Bros
+CATEGORY Adventure
+COPIES 5
+CONSOLE Xbox
+}
+ITEM 
+{
+ITEM_TYPE game
+TITLE High School Musical 3 Sing It
+YEAR 2009
+COMPANY Disney
+CATEGORY Comedy
+COPIES 2
+CONSOLE Nintendo
+}
+}
